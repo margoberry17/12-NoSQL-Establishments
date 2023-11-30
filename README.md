@@ -5,11 +5,11 @@ The NoSQL_setup.ipynb sets up and updates the database.
 
 Part 1: Database and Jupyter Notebook Set Up
 
-Part 2: Update the Database
-  Added a new restaurant, Penang Flavours
-  Updated the BusinessTypeID for the new restaurant
-  Removed establishments in Dover that we were not interseted in
-  Converted latitude & longitude to decimal numbers and converted RatingValue to integer numbers
+Part 2: Update the Database\n
+  Added a new restaurant, Penang Flavours\n
+  Updated the BusinessTypeID for the new restaurant\n
+  Removed establishments in Dover that we were not interseted in\n
+  Converted latitude & longitude to decimal numbers and converted RatingValue to integer numbers\n
 
 Part 3: Exploratory Analysis
 
